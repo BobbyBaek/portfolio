@@ -2,7 +2,7 @@ const skillData = {
 	skillList: [
 		{
 			label: "HTML/CSS",
-			detail: ["원하는 UI를 실용적이고, 익숙하게 만들어 낼 수 있습니다.", "빌드시스템(Gulp)과 템플릿 엔진(ejs, jade)의 사용이 가능합니다.", "Css 최신 문법이 숙지되어 있고 Css 프리프로세서 Sass를 사용할 수 있습니다."],
+			detail: ["원하는 UI를 실용적이고, 익숙하게 만들어 낼 수 있습니다.", "CSS 최신 문법이 숙지되어 있고 원하는 방향으로 꾸미며 사용할 수 있습니다."],
 			icon: "fab fa-html5",
 		},
 		{

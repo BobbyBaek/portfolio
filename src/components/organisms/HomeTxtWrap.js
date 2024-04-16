@@ -18,7 +18,7 @@ function AboutTxtWrap() {
 						<span className="message">
 							<strong>Bobby Baek</strong>
 							<strong>Front‑End DEVELOPER</strong>
-							<strong>UX/UI PUBLISHER</strong>
+							<strong>Web PUBLISHER</strong>
 						</span>
 					</Heading>
 					<p>

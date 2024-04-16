@@ -30,77 +30,7 @@ function PortfolioMini() {
 
 	nodes.forEach((node) => new Item(node));
 
-	return (
-		<StyledList>
-			<h2>ETC</h2>
-			<ul>
-				<li>
-					<a href="http://coner.co.kr/project/samsung_galaxy/friday/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>Samsung Galaxy-Watch, Buds</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://coner.co.kr/project/kia_sp2/unveiling/pc/index.html" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>Kia Seltos Unveiling</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://coner.co.kr/project/samsungpd/pd/nt930xbe-k38l/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>Samsung Notebook</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://coner.co.kr/project/samsung_builtin/partners/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>Samsung Built-in Renewal</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://coner.co.kr/project/samsungpd/pd/dv14n8520kv/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>Samsung 건조기 그랑데</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://nolsoop.com/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>놀숲</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://www.dselaser.com/ko/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>대신 엔터프라이즈</p>
-					</a>
-				</li>
-				<li>
-					<a href="http://www.ankugenc.com/" target="_blank" rel="noopener noreferrer">
-						<i className="far fa-file-alt"></i>
-						<p>안국이앤씨</p>
-					</a>
-				</li>
-				<li>
-					<i className="far fa-file-alt"></i>
-					<p>동아 도덕</p>
-				</li>
-				<li>
-					<i className="far fa-file-alt"></i>
-					<p>천재 통합사회</p>
-				</li>
-				<li>
-					<i className="far fa-file-alt"></i>
-					<p>지학사 영어 중등, 고등</p>
-				</li>
-				<li>
-					<i className="far fa-file-alt"></i>
-					<p>지학사 영어 공통</p>
-				</li>
-			</ul>
-		</StyledList>
-	);
+
 }
 
 export default PortfolioMini;
