@@ -2,7 +2,7 @@
   "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
   "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
   "test": "NODE_OPTIONS=--openssl-legacy-provider react-scripts test",
-  "homepage": "https://BobbyBaek.github.io/portfolio",
+  "homepage": "https://BobbyBae.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
