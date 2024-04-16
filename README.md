@@ -11,4 +11,4 @@ React를 기반으로 만들었고, github 링크를 사용하여 배포하였�
   
 찾아주셔서 감사합니다.😀
 
-[포트폴리오 링크](https://github.com/BobbyBaek)
+[포트폴리오 링크]( https://bobbybaek.github.io/portfolio/)
